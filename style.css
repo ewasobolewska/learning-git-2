@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://images.pexels.com/photos/842948/pexels-photo-842948.jpeg?cs=srgb&dl=architecture-buildings-city-842948.jpg&fm=jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Pacifico', cursive;
+}
+h1 {
+    text-align: center;
+}
+span {
+    float: left;
+    padding-left: 120px;
+}
